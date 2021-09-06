@@ -1,0 +1,2 @@
+- ver ejemplo arbol de los codigos del tema 7 (carpeta serializacion)
+- callback es cuando el servidor necesita invocar un metodo del cliente (polling es la comprobación constante y satura la red), realmente cliente y servidor actúan como ambos, la única diferencia es que el servidor necesita tener una IP fija y el cliente no, basta con tener su referencia. Esta explicación no sirve para nada en la práctica pero bueno por aclarar jaja
